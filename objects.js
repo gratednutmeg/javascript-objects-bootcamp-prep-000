@@ -5,5 +5,3 @@ function updatePlaylist(playlist,artist,song) {
   console.log(playlist);
   return playlist;
 }
-
-updatePlaylist(playlist,'Lady Gaga','Teeth');
