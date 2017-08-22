@@ -4,3 +4,5 @@ function updatePlaylist(playlist,artist,song) {
   playlist[artist] = song;
   return playlist;
 }
+
+updatePlaylist(playlist,'Lady Gaga','Teeth');
